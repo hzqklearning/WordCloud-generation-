@@ -5,6 +5,7 @@
 - word_cloud.py为生成词云图片的代码
 - cn_stopwords.txt存放了中文常见停词
 - test.ipynb用来测试使用
+- user_dict.txt是用户自定义的词汇
   
 ### 总结： ###
 - jieba库可以用来进行中文分词，可以对中文字符串进行分词
